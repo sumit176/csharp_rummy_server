@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fk3O9y+UUWc94as5447UTH0ePAdraqgj3TzGgEVbgEz2Vxyg1cICveKHvOJT/owRLbwq4KPR5asGTdfDJsIXSg==",
+  "success": true,
+  "projectFilePath": "/Users/anuragini/RiderProjects/RummyGameServer/CommonData/CommonData.csproj",
+  "expectedPackageFiles": [
+    "/Users/anuragini/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
